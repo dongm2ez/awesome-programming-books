@@ -13,7 +13,7 @@
 *   《[TCP/IP详解 卷1：协议](https://www.amazon.cn/gp/product/B00116OTVS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00116OTVS&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Linux系统编程（第2版）](https://www.amazon.cn/gp/product/B00JUM2ML4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00JUM2ML4&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Linux内核设计与实现（第3版）](https://www.amazon.cn/gp/product/B004X3Z3D4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004X3Z3D4&amp;linkCode=as2&amp;tag=vastwork-23)》
-*   《[深入理解计算机系统（原书第2版）](https://www.amazon.cn/gp/product/B004BJ18KM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004BJ18KM&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[深入理解计算机系统（原书第3版）](https://amazon.cn/gp/product/B01N03IQK4/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B01N03IQK4&linkId=b87deba0291c05df8d8ea0d64fefb0f0)》
 *   《[计算机程序的构造和解释（原书第2版）](https://www.amazon.cn/gp/product/B0011AP7RY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011AP7RY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[编码：隐匿在计算机软硬件背后的语言](https://www.amazon.cn/gp/product/B009RSXIB4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B009RSXIB4&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[性能之颠：洞悉系统、企业与云计算](https://www.amazon.cn/gp/product/B0140I5WPK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0140I5WPK&amp;linkCode=as2&amp;tag=vastwork-23)》
@@ -25,6 +25,7 @@
 
 ## 编程通用
 
+*   《[设计原本](https://www.amazon.cn/dp/B00CD1EWMG/ref=sr_1_1?ie=UTF8&qid=1514903810&sr=8-1)》
 *   《[编程原本](https://www.amazon.cn/gp/product/B006P7V73G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B006P7V73G&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[代码大全](https://www.amazon.cn/gp/product/B0061XKRXA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0061XKRXA&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[UNIX编程艺术](https://www.amazon.cn/gp/product/B008Z1IEQ8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B008Z1IEQ8&amp;linkCode=as2&amp;tag=vastwork-23)》
@@ -44,6 +45,7 @@
 *   《程序设计语言：实践之路（第3版）》
 *   《[计算的本质：深入剖析程序和计算机](https://www.amazon.cn/gp/product/B00PG0MM3C/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00PG0MM3C&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[设计模式 : 可复用面向对象软件的基础](https://www.amazon.cn/gp/product/B001130JN8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B001130JN8&amp;linkCode=as2&amp;tag=vastwork-23)》
+* 《[Head First 设计模式（中文版）](https://amazon.cn/gp/product/B0011FBU34/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B0011FBU34&linkId=cd5d20e99ff289529d6dbe2cd223f2b6) 》（感谢[@Great-Li-Xin](https://github.com/Great-Li-Xin) [推荐](https://github.com/jobbole/awesome-programming-books/issues/27) ）
 
 ## 算法与数据结构
 
@@ -75,8 +77,10 @@
 *   《[奇思妙想 : 15位计算机天才及其重大发现](https://www.amazon.cn/gp/product/B007ED88CI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B007ED88CI&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[图灵和ACM图灵奖](https://www.amazon.cn/gp/product/B008G80O9K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B008G80O9K&amp;linkCode=as2&amp;tag=vastwork-23)》
 
+
 ## 架构/性能
 
+*   《[架构即未来](https://www.amazon.cn/图书/dp/B01DXW29IM/ref=sr_1_1?s=books&ie=UTF8&qid=1496288348&sr=1-1)》
 *   《[微服务设计](https://www.amazon.cn/gp/product/B01ER75V6O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01ER75V6O&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[大数据日知录](https://www.amazon.cn/gp/product/B00NGW4EAG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00NGW4EAG&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[企业应用架构模式](https://www.amazon.cn/gp/product/B003LBSRDM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B003LBSRDM&amp;linkCode=as2&amp;tag=vastwork-23)》
@@ -88,6 +92,15 @@
 *   《[恰如其分的软件架构：风险驱动的设计方法](https://www.amazon.cn/gp/product/B00EP6TGAU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00EP6TGAU&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[软件系统架构：使用视点和视角与利益相关者合作（第2版）](https://www.amazon.cn/gp/product/B00CMMUXC4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00CMMUXC4&amp;linkCode=as2&amp;tag=vastwork-23)》
 
+## Linux / Unix
+
+*   《[Linux/Unix 系统编程手册](https://amazon.cn/gp/product/B00HLA8TYG/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B00HLA8TYG&amp;linkId=2d246600ae289155a09ec47545d584f6)》（感谢[@geekgao](https://github.com/geekgao) 的推荐）
+*   《[Unix 环境高级编程(第3版)](https://amazon.cn/gp/product/B00KMR129E/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B00KMR129E&amp;linkId=9655c290f9d97c4d7e80093839cc5944)》
+*   《Unix/Linux 编程实践教程》
+*   《[鸟哥的 Linux 私房菜（基础学习篇）](https://amazon.cn/gp/product/B003TJNO98/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B003TJNO98&amp;linkId=dda37757175b431dedc5e20212021f21)》和《[鸟哥的 Linux 私房菜（服务器架设篇）](https://amazon.cn/gp/product/B008AEI8A2/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B008AEI8A2&amp;linkId=35f878fbebb2f66ae8c4fc3e76914ff6)》
+*   《[Linux 命令行与 shell 脚本编程大全（第3版）](https://amazon.cn/gp/product/B0719GT5W1/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B0719GT5W1&amp;linkId=aeef8bc8651bd9e5f363527b86d1229a)》
+*   《[只是为了好玩 : Linux 之父林纳斯自传](https://amazon.cn/gp/product/B00MB51SAI/ref=as_li_qf_asin_il_tl?ie=UTF8&amp;tag=vastwork-23&amp;creative=3200&amp;linkCode=as2&amp;creativeASIN=B00MB51SAI&amp;linkId=b22fe2eaac93168eae25d9bab11fe30c)》
+
 ## Web前端
 
 *   《[高性能 JavaScript](https://www.amazon.cn/gp/product/B013SGB2AO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B013SGB2AO&amp;linkCode=as2&amp;tag=vastwork-23)》
@@ -95,11 +108,14 @@
 *   《[JavaScript 忍者秘籍](https://www.amazon.cn/gp/product/B016DWSEWO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B016DWSEWO&amp;linkCode=as2&amp;tag=vastwork-23)》（感谢[@joker-danta](https://github.com/jobbole/awesome-programming-books/issues?q=is%3Aissue+is%3Aopen+author%3Ajoker-danta) 补充推荐）
 *   《[编写可维护的 JavaScript](https://www.amazon.cn/gp/product/B00BQ7RMW0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00BQ7RMW0&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[你不知道的 JavaScript（上）](https://www.amazon.cn/gp/product/B00W34DZ8K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00W34DZ8K&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[你不知道的 JavaScript（中）](https://www.amazon.cn/gp/product/B01LMYXGAI/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=4JRMK10EFJQHDAG8MCZF)》
 *   《[JavaScript 权威指南（第6版）](https://www.amazon.cn/gp/product/B007VISQ1Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B007VISQ1Y&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript 语言精粹（修订版）](https://www.amazon.cn/gp/product/B0097CON2S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0097CON2S&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript DOM编程艺术 （第2版）](https://www.amazon.cn/gp/product/B004VJM5KE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B004VJM5KE&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript 高级程序设计（第3版）](https://www.amazon.cn/gp/product/B007OQQVMY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B007OQQVMY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[JavaScript 异步编程：设计快速响应的网络应用](https://www.amazon.cn/gp/product/B00JVLEYY2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00JVLEYY2&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[JavaScript设计模式与开发实践](https://www.amazon.cn/gp/product/B00XJ2AU3S/ref=pd_bxgy_14_img_3?ie=UTF8&psc=1&refRID=4JRMK10EFJQHDAG8MCZF)》
+*   《[JavaScript框架设计（第2版）](https://www.amazon.cn/gp/product/B07574N7Y2/ref=pd_sim_14_7?ie=UTF8&psc=1&refRID=W48SJ7HFN2TXAQ1VAA8K)》
 *   《[Effective JavaScript：编写高质量JavaScript代码的68个有效方法](https://www.amazon.cn/gp/product/B00GMXI1QY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00GMXI1QY&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[HTML5 权威指南](https://www.amazon.cn/gp/product/B00H706BIG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00H706BIG&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[HTML5 秘籍（第2版）](https://www.amazon.cn/gp/product/B015316VJY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B015316VJY&amp;linkCode=as2&amp;tag=vastwork-23)》
@@ -108,6 +124,8 @@
 *   《[CSS 设计指南（第3版）](https://www.amazon.cn/gp/product/B00M2DKZ1W/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00M2DKZ1W&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[CSS 权威指南（第3版）](https://www.amazon.cn/gp/product/B0011F5SIC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B0011F5SIC&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入浅出 HTML 与 CSS](https://www.amazon.cn/gp/product/B01LXL42O5/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01LXL42O5&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[ES6 标准入门（第三版）](https://www.amazon.cn/ES6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8-%E9%98%AE%E4%B8%80%E5%B3%B0/dp/B0755547ZZ/ref=sr_1_3?s=books&ie=UTF8&qid=1510299626&sr=1-3&keywords=Ecmascript)》
+*   《[深入理解 ES6](https://www.amazon.cn/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6-Nicholas-C-Zakas/dp/B071GW3JDP/ref=sr_1_1?s=books&ie=UTF8&qid=1510299626&sr=1-1&keywords=Ecmascript)》
 
 ## Java开发
 
@@ -122,11 +140,30 @@
 *   《[Java核心技术·卷1：基础知识（原书第9版）](https://www.amazon.cn/gp/product/B01M22BGUQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01M22BGUQ&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[Java核心技术·卷2：高级特性（原书第9版）](https://www.amazon.cn/gp/product/B00IK7SM6O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00IK7SM6O&amp;linkCode=as2&amp;tag=vastwork-23)》
 
-## .NET
+## .NET/.NET Core
 
-*   《[精通C#（第6版）](https://www.amazon.cn/gp/product/B00DVDDP0K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00DVDDP0K&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[C# 6.0 本质论](https://www.amazon.cn/C-6-0%E6%9C%AC%E8%B4%A8%E8%AE%BA-%E9%A9%AC%E5%85%8B%C2%B7%E7%B1%B3%E5%87%AF%E5%88%A9%E6%96%AF/dp/B01N7U95UK/ref=sr_1_1?s=books&ie=UTF8&qid=1510299751&sr=1-1&keywords=C%23+%E6%9C%AC%E8%B4%A8%E8%AE%BA)》
+*   《[果壳中的C#：C#5.0权威指南](https://www.amazon.cn/%E6%9E%9C%E5%A3%B3%E4%B8%AD%E7%9A%84C-C-5-0%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E9%98%BF%E5%9D%9D%E5%93%88%E7%91%9E/dp/B00G51PUDA/ref=sr_1_1?s=books&ie=UTF8&qid=1510299796&sr=1-1&keywords=%E6%9E%9C%E5%A3%B3%E4%B8%AD%E7%9A%84C%23)》
+*   《你必须知道的.NET（第2版）》
 *   《[深入理解C#（第3版）](https://www.amazon.cn/gp/product/B00J94AG2A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00J94AG2A&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《Effective C#: 50 Specific Ways to Improve Your C#, Third Edition》
+*   《More Effective C# (Includes Content Update Program): 50 Specific Ways to Improve Your C#, 2nd edition》
+*   《[Async in C# 5.0: Unleash the Power of Async](https://www.amazon.cn/Async-in-C-5-0-Unleash-the-Power-of-Async-Davies-Alex/dp/1449337163/ref=sr_1_1?s=books&ie=UTF8&qid=1510299899&sr=1-1&keywords=Async+in+C%23+5.0)》
+*   《[C#并发编程经典实例](https://www.amazon.cn/C-%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%BB%8F%E5%85%B8%E5%AE%9E%E4%BE%8B-%E5%85%8B%E5%88%A9%E9%87%8C/dp/B00QVLZEQ2/ref=sr_1_1?s=books&ie=UTF8&qid=1510299937&sr=1-1&keywords=C%23%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%BB%8F%E5%85%B8%E5%AE%9E%E4%BE%8B)》
+*   《[C#多线程编程实战(原书第2版)](https://www.amazon.cn/C-%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98-%E6%98%93%E6%A0%BC%E6%81%A9%C2%B7%E9%98%BF%E6%A0%BC%E4%BD%9B%E6%B8%A9/dp/B06XHXV5FQ/ref=sr_1_1?s=books&ie=UTF8&qid=1510299974&sr=1-1&keywords=C%23%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98)》
 *   《[CLR via C#（第4版）](https://www.amazon.cn/gp/product/B00P8VZ8T4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00P8VZ8T4&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《.NET本质论 第1卷:公共语言运行库》
+*   《.NET探秘 : MSIL权威指南》
+*   《Pro .NET Performance》
+*   《Shared Source CLI Essentials》
+*   《.NET 高级调试》
+*   《Microsoft.NET 和 Windows 应用程序调试》
+*   《微软.NET 程序的加密与解密》
+*   《[.NET Development Using the Compiler API](https://www.amazon.cn/NET-Development-Using-the-Compiler-API-Bock-Jason/dp/1484221109/ref=sr_1_1?s=books&ie=UTF8&qid=1510300116&sr=1-1&keywords=.NET+Development+Using+the+Compiler+API)》
+*   《.NET设计规范 : 约定、惯用法与模式》
+*   《[编写高性能的.NET代码](https://www.amazon.cn/gp/product/B074JS9HWX/ref=pd_sim_14_9?ie=UTF8&psc=1&refRID=67XZ7GZVFZ3J57NQTJ8X)》
+*   《[Building Microservices with .NET Core](https://www.amazon.cn/Building-Microservices-with-NET-Core-Develop-skills-in-Reactive-Microservices-database-scaling-Azure-Microservices-and-more-Aroraa-Gaurav-Kumar/dp/B01MQ52RM3/ref=sr_1_10?s=books&ie=UTF8&qid=1510300439&sr=1-10&keywords=.net+core)》
+*   《[Microservices in .NET Core, with Examples in NancyFX](https://www.amazon.cn/Microservices-in-NET-Core-with-Examples-in-NancyFX-Horsdal-Christian/dp/1617293377/ref=sr_1_15?s=books&ie=UTF8&qid=1510300439&sr=1-15&keywords=.net+core)》
 
 ## Python
 
@@ -151,6 +188,7 @@
 
 *   《[Android编程权威指南（第2版）](https://www.amazon.cn/gp/product/B01FSXCBOQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B01FSXCBOQ&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[移动应用UI设计模式（第2版）](https://www.amazon.cn/gp/product/B00SFZGX08/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00SFZGX08&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[Android开发艺术探索](https://www.amazon.cn/Android%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2-%E4%BB%BB%E7%8E%89%E5%88%9A/dp/B014HV1X3K/ref=sr_1_1?s=books&ie=UTF8&qid=1478155289&sr=1-1&keywords=android%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2)》
 
 ## iOS
 
@@ -207,12 +245,18 @@
 
 ## 数据库
 
+* 《[数据库系统概念](https://amazon.cn/gp/product/B007KYSEZC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B007KYSEZC&linkId=32d1830aaeeda5b1ccaf242af94e73ad)》 感谢[@noisnemid](https://github.com/noisnemid) [推荐](https://github.com/jobbole/awesome-programming-books/issues/16)
+* 《[数据库系统实现](https://amazon.cn/gp/product/B003NX8D0A/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B003NX8D0A&linkId=3d1723a92384a5febb43c2400b31f1fe)》
 *   《[SQL应用重构](https://www.amazon.cn/gp/product/B00H6X6M1A/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00H6X6M1A&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[SQL Cookbook](https://www.amazon.cn/gp/product/0596009763/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=0596009763&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[高性能MySQL （第3版）](https://www.amazon.cn/gp/product/B00C1W58DE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00C1W58DE&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《深入浅出SQL（中文版）》
 *   《[MySQL技术内幕 : InnoDB存储引擎（第2版）](https://www.amazon.cn/gp/product/B00ETOV48K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00ETOV48K&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[深入浅出MySQL : 数据库开发、优化与管理维护](https://www.amazon.cn/gp/product/B00KR87J8G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00KR87J8G&amp;linkCode=as2&amp;tag=vastwork-23)》
+*   《[收获,不止SQL优化:抓住SQL的本质](https://www.amazon.cn/%E6%94%B6%E8%8E%B7-%E4%B8%8D%E6%AD%A2SQL%E4%BC%98%E5%8C%96-%E6%8A%93%E4%BD%8FSQL%E7%9A%84%E6%9C%AC%E8%B4%A8-%E6%A2%81%E6%95%AC%E5%BD%AC/dp/B071S6ZYH8/ref=sr_1_1?s=books&ie=UTF8&qid=1510300270&sr=1-1&keywords=%E4%B8%8D%E6%AD%A2+sql)》
+*   《[SQL Server 性能优化与管理的艺术](https://www.amazon.cn/SQL-Server%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%8E%E7%AE%A1%E7%90%86%E7%9A%84%E8%89%BA%E6%9C%AF-%E9%BB%84%E9%92%8A%E5%90%89/dp/B00NW2FVAM/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1510300294&sr=1-8)》
+*   《[SQL Server性能调优实战](https://www.amazon.cn/SQL-Server%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E5%AE%9E%E6%88%98-%E9%99%88%E7%95%85%E4%BA%AE/dp/B0171JJEN6/ref=sr_1_11?s=books&ie=UTF8&qid=1510300294&sr=1-11&keywords=sql+server)》
+*   《[T-SQL性能调优秘笈:基于SQL Server 2012窗口函数](https://www.amazon.cn/T-SQL%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E7%A7%98%E7%AC%88-%E5%9F%BA%E4%BA%8ESQL-Server-2012%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0-%E6%9C%AC-%E7%94%98/dp/B00M1CH5A8/ref=sr_1_14?s=books&ie=UTF8&qid=1510300294&sr=1-14&keywords=sql+server)》
 
 ## 测试
 
@@ -227,6 +271,7 @@
 *   《[人件（原书第3版）](https://www.amazon.cn/gp/product/B00MO7R1SG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00MO7R1SG&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[门后的秘密：卓越管理的故事](https://www.amazon.cn/gp/product/B00CBBKRQ8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00CBBKRQ8&amp;linkCode=as2&amp;tag=vastwork-23)》
 *   《[极客与团队：软件工程师的团队生存秘笈](https://www.amazon.cn/gp/product/B00BLZMG8W/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=536&amp;creative=3200&amp;creativeASIN=B00BLZMG8W&amp;linkCode=as2&amp;tag=vastwork-23)》
+* 《[硝烟中的 Scrum 和 XP](https://amazon.cn/gp/product/B00EE5HBAO/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=vastwork-23&creative=3200&linkCode=as2&creativeASIN=B00EE5HBAO&linkId=d904f054b7a79a701065f544a449512b)》 (感谢[@geekgao](https://github.com/geekgao) 的推荐。
 
 ## 求职面试
 
